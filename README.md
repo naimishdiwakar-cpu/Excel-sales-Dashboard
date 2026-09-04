@@ -14,5 +14,4 @@ This dashboard provides insights into:
 - Sales by Salesperson
 - Sales Performance
   ## Project Screenshort
-  ![Excel Sales Dashboard]
-  (Screenshort%202026-09-04%20140101.png)
+  ![Excel Sales Dashboard](Screnshort%202026-09-04%20140101.png)
