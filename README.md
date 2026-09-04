@@ -12,6 +12,6 @@ This dashboard provides insights into:
 - Total Sales
 - Sales by product
 - Sales by Salesperson
-- Sales Performance
+- Sales Perfromance
   ## Project Screenshort
-  ![Excel Sales Dashboard](Screnshort%202026-09-04%20140101.png)
+![Sales Dashboard](Screenshot%202026-09-04%20140101.png)
